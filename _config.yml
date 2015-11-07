@@ -1,0 +1,23 @@
+name: Unreal Deals
+favicon: null
+layout_spectrum: 0.6192354396916926
+typography_spectrum: 0.3467357929330319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6611925861798227
+  lightness: 0.034234257182106376
+  saturation: 0.8195316039491445
+  rhythmicContrast: 0.7036890294402838
+purpose: []
